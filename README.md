@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a soon to be Biochemical Engineer with particular interest in programming, bioinformatics, data science and senescence research.
+
 <!--
 **leonardopl/leonardopl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
