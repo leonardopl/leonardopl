@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a soon to be Biochemical Engineer with particular interest in programming, bioinformatics, data science and senescence research.
+I'm a Biochemical Engineer and currently doing a master in Medical Imaging Informatics with AI. My interests include programming, bioinformatics, data science and senescence research.
 
 <!--
 **leonardopl/leonardopl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
