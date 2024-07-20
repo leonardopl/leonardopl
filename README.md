@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-MSc in Computer Engineering (focusing on Artificial Intelligence, Computer Vision, and Medical Image Analysis) and BSc in Biochemical Engineering.
+I have an MSc in Computer Engineering (focusing on artificial intelligence, computer vision, and medical image analysis) and a BSc in Biochemical Engineering.
 
 My interests include programming, deep learning, bioinformatics, and data science.
 
