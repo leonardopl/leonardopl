@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Biochemical Engineer and currently doing a master in Medical Imaging Informatics with AI. My interests include programming, bioinformatics and data science.
+MSc in Computer Engineering (focusing on Artificial Intelligence, Computer Vision, and Medical Image Analysis) and BSc in Biochemical Engineering. My interests include programming, deep learning, bioinformatics, and data science.
 
 <!--
 **leonardopl/leonardopl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
