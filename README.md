@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-MSc in Computer Engineering (focusing on Artificial Intelligence, Computer Vision, and Medical Image Analysis) and BSc in Biochemical Engineering. My interests include programming, deep learning, bioinformatics, and data science.
+MSc in Computer Engineering (focusing on Artificial Intelligence, Computer Vision, and Medical Image Analysis) and BSc in Biochemical Engineering.
+
+My interests include programming, deep learning, bioinformatics, and data science.
 
 <!--
 **leonardopl/leonardopl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
